@@ -34,7 +34,7 @@ poor, sub optimized or just unwise decisions that frustrate you. It may be that 
 that is frustrating you. I assure you, I am not doing this on purpose, in all likelihood I just don’t realize
 how my behavior is impacting the organization. Many times, the only way I will know is if you tell me I am
 being an idiot. For the health and effectiveness of the entire operation, you need to be willing to talk to
-me about the hard things, regularly.  There are never going to be any bonus points awarded for agreeing with me, neither will there be any demerits for voicing your concerns.  I promise you I want to hear what is on your mind, that's part of the deal. I won’t always agree or tak eaction, but I will promise I will not shoot the messenger. Be brave and tell me when I am not living up to your expecations. Sometimes in order to tease out those things, I will ask you to bring a list of things to our one on one that you wish I did better.      
+me about the hard things, regularly.  There are never going to be any bonus points awarded for agreeing with me, neither will there be any demerits for voicing your concerns.  I promise you I want to hear what is on your mind, that's part of the deal. I won’t always agree or take action, but I will promise I will not shoot the messenger. Be brave and tell me when I am not living up to your expectations. Sometimes in order to tease out those things, I will ask you to bring a list of things to our one on one that you wish I did better.      
 
 ### We Live and Die by Feedback, Pt II. 
 Part of my job is to give you regular feedback, good and bad. I try
@@ -43,7 +43,7 @@ give it to you. We will also have regular reviews at TBD intervals where we will
 will always give you some feedback in those sessions, provided you are willing to do the same for me.  
 
 ### You’re an accomplished adult that doesn’t need to be micromanaged. 
-I will ask you to do things, I will set out policies that will apply to you, I will have people come to me with problems and I will direct them to you to get them fixed when it makes sense, I will establish goals with you, and in every way conceivable will send work your way and make you feel empowered and responsible for it. In all of that, I still respect that you are the DRI and are accountable ot outcomes.  As a reuslt, I will rarely ask you for follow up – by that I mean status reviews, slides, update meetings, presentations or TPS reports. Because you're an adult and leader I can and will safely assume you know you are doing, I can trust you to prioritize, and beleive that you get stuff done when it needs to be done. 
+I will ask you to do things, I will set out policies that will apply to you, I will have people come to me with problems and I will direct them to you to get them fixed when it makes sense, I will establish goals with you, and in every way conceivable will send work your way and make you feel empowered and responsible for it. In all of that, I still respect that you are the DRI and are accountable to outcomes.  As a reuslt, I will rarely ask you for follow up – by that I mean status reviews, slides, update meetings, presentations or TPS reports. Because you're an adult and leader I can and will safely assume you know what you are doing, I can trust you to prioritize, and believe that you get stuff done when it needs to be done. 
 
 Occasionally I will ask you for clarity on how things are going, but for the most part, I will only come to you when I see evidence that something is not getting done or the wheels are falling off. I do occasioanlly get frustrated when I ask for things to get done, they don’t get done,  and I don’t know why. And that’s why you need to be proactively communicating.
 
@@ -58,10 +58,10 @@ for both clarification and importance. These questions can save everyone a lot o
 opinion question and it will usually never occur to me that you are asking me to take some action.
 “I need you to send an email to….” Is a direct request that is obviously actionable to me.
 3. I like to let controversies play out, it’s part of figuring out how to work as a team. Bright people
-often disagree and the process of managing disagreement is a differentiating leadership skill that requires pratice. Therefore,  I'm fine letting people work through the messy process of managing disagreement - *I actually enjoy watching it play out.*
+often disagree and the process of managing disagreement is a differentiating leadership skill that requires practice. Therefore,  I'm fine letting people work through the messy process of managing disagreement - *I actually enjoy watching it play out.*
 There does reach a point where controversies within our group reach a natural conclusion, and
-we just need a decision to keep everyone sane. If it's not clear who the DRI is at that point then juat tell me when we have reached that point and I will weigh
-in and close the debate. Otherwise, I tend to let it continue play out.
+we just need a decision to keep everyone sane. If it's not clear who the DRI is at that point then just tell me when we have reached that point and I will weigh
+in and close the debate. Otherwise, I tend to let it continue to play out.
 4. I don’t provide negative feedback in a group setting, even when it is obviously needed. If done
 well you will not observe me providing negative feedback to any one individual other than
 yourself, ever. When the wheels are falling off in a meeting or event or process and you don’t
@@ -69,7 +69,7 @@ see me doing anything, you might view my response as disengagement or the lack o
 Please be aware it’s neither, I’m probably taking a mental note of some feedback I need to
 provide after the meeting. It’s just something I prefer to handle one on one.
 5. I am and will be effusive with positive feedback both group and private settings.   
-6. I believe in the minimum viable process.  It some point in time someone decided the best means of air travel was a dirigible airship.  That was the best practice of the time.  If we applied the standard management process of "we use best practices around here," then there never would have been any room for the Wright Brothers to convince us that winged airplanes were a better way to go.   In the same way, I am much less motivated by best practices and much more so by outcomes.  I
+6. I believe in the minimum viable process. At some point in time someone decided the best means of air travel was a dirigible airship. That was the best practice of the time. If we applied the standard management process of "we use best practices around here," then there never would have been any room for the Wright Brothers to convince us that winged airplanes were a better way to go. In the same way, I am much less motivated by best practices and much more so by outcomes. I
 want you to figure out the processes that work best for you and your areas of responsibility, and you have the freedom to experiment. In the rare event that a clear process structure is needed - and sometimes it is - you'll hear that from me. 
-7. I beleive strongly in work life balance and for my family work to practice it.   If I am overloaded I tend to come in early to keep my commitment to my wife and kids to be with them in the evening.  As a leader, I also don't want to model staying late to our group.  
-7. If you see me on my phone during a meeting, please tell me to stop. So rude. 
+7. I believe strongly in work life balance and for my family work to practice it. If I am overloaded I tend to come in early to keep my commitment to my wife and kids to be with them in the evening.  As a leader, I also don't want to model staying late to our group.  
+8. If you see me on my phone during a meeting, please tell me to stop. So rude. 
