@@ -25,7 +25,7 @@ Some technology leaders like to focus on the technology. Some care less about th
 
 In my view, *my primary responsibility at Church Community Builder is to build and maintain an environment where great people want to be*.  That's where my heart is at, it is what our organization needs, and it is what drives me. 
 
-You do not have to have the same bent to be successful working with me. In fact, I need people who love the technology, who care about the product, and who look for inefficiency.   However, in your leadership role you also contribute singificantly to the culture.  If you do everything I ask you to do well and more but aren’t contributing positively to the environment, we have a huge problem.
+You do not have to have the same bent to be successful working with me. In fact, I need people who love the technology, who care about the product, and who look for inefficiency.   However, in your leadership role (we are all leaders) you also contribute singificantly to the culture.  If you do everything I ask you to do well and more but aren’t contributing positively to the environment, we have a huge problem.
 
 ### We Live and Die by Feedback, Pt I. 
 *You need to be able to tell me when I am being an idiot.*  That’s the
