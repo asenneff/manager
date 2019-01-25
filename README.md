@@ -39,7 +39,7 @@ me about the hard things, regularly.  There are never going to be any bonus poin
 ### We Live and Die by Feedback, Pt II. 
 Part of my job is to give you regular feedback, good and bad. I try
 to practice coaching on the spot – when I see something to give you feedback on I will pull you aside and
-give it to you. We will also have regular reviews at TBD intervals where we will cover feedback. I
+give it to you. We will also have regular reviews at a minimum of annual intervals where we will cover feedback. I
 will always give you some feedback in those sessions, provided you are willing to do the same for me.  
 
 ### You’re an accomplished adult that doesn’t need to be micromanaged. 
