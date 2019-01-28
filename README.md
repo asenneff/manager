@@ -31,8 +31,8 @@ You do not have to have the same bent to be successful working with me. In fact,
 *You need to be able to tell me when I am being an idiot.*  That’s the
 only way this organization is going to work. I don’t always know the right answer and sometimes I make
 poor, sub optimized or just unwise decisions that frustrate you. It may be that it’s my *lack*  of decisions
-that is frustrating you. I assure you, I am not doing this on purpose, in all likelihood I just don’t realize
-how my behavior is impacting the organization. Many times, the only way I will know is if you tell me I am
+that is frustrating you. I assure you, I am not doing this on purpose.  In all likelihood I just don’t realize
+how my behavior is impacting the organization. Many times, the only way I will know that is if you tell me I am
 being an idiot. For the health and effectiveness of the entire operation, you need to be willing to talk to
 me about the hard things, regularly.  There are never going to be any bonus points awarded for agreeing with me, neither will there be any demerits for voicing your concerns.  I promise you I want to hear what is on your mind, that's part of the deal. I won’t always agree or take action, but I will promise I will not shoot the messenger. Be brave and tell me when I am not living up to your expectations. Sometimes in order to tease out those things, I will ask you to bring a list of things to our one on one that you wish I did better.      
 
@@ -43,7 +43,7 @@ give it to you. We will also have regular reviews at a minimum of annual interva
 will always give you some feedback in those sessions, provided you are willing to do the same for me.  
 
 ### You’re an accomplished adult that doesn’t need to be micromanaged. 
-I will ask you to do things, I will set out policies that will apply to you, I will have people come to me with problems and I will direct them to you to get them fixed when it makes sense, I will establish goals with you, and in every way conceivable will send work your way and make you feel empowered and responsible for it. In all of that, I still respect that you are the DRI and are accountable to outcomes.  As a reuslt, I will rarely ask you for follow up – by that I mean status reviews, slides, update meetings, presentations or TPS reports. Because you're an adult and leader I can and will safely assume you know what you are doing, I can trust you to prioritize, and believe that you get stuff done when it needs to be done. 
+I will ask you to do things, I will set out policies that will apply to you, I will have people come to me with problems and I will direct them to you to get them fixed when it makes sense, I will establish goals with you, and in every way conceivable will send work your way and make you feel empowered and responsible for it. In all of that, I  respect that you are the DRI and are accountable to outcomes.  As a result, I will rarely ask you for follow up – by that I mean status reviews, slides, update meetings, presentations or TPS reports. Because you're an adult and leader I can and will safely assume you know what you are doing, I can trust you to prioritize, and believe that you get stuff done when it needs to be done. 
 
 Occasionally I will ask you for clarity on how things are going, but for the most part, I will only come to you when I see evidence that something is not getting done or the wheels are falling off. I do occasioanlly get frustrated when I ask for things to get done, they don’t get done,  and I don’t know why. And that’s why you need to be proactively communicating.
 
@@ -73,3 +73,6 @@ provide after the meeting. It’s just something I prefer to handle one on one.
 want you to figure out the processes that work best for you and your areas of responsibility, and you have the freedom to experiment. In the rare event that a clear process structure is needed - and sometimes it is - you'll hear that from me. 
 7. I believe strongly in work life balance and for my family work to practice it. If I am overloaded I tend to come in early to keep my commitment to my wife and kids to be with them in the evening.  As a leader, I also don't want to model staying late to our group.  
 8. If you see me on my phone during a meeting, please tell me to stop. So rude. 
+
+
+
