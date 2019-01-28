@@ -71,8 +71,5 @@ provide after the meeting. It’s just something I prefer to handle one on one.
 5. I am and will be effusive with positive feedback both group and private settings.   
 6. I believe in the minimum viable process. At some point in time someone decided the best means of air travel was a dirigible airship. That was the best practice of the time. If we applied the standard management process of "we use best practices around here," then there never would have been any room for the Wright Brothers to convince us that winged airplanes were a better way to go. In the same way, I am much less motivated by best practices and much more so by outcomes. I
 want you to figure out the processes that work best for you and your areas of responsibility, and you have the freedom to experiment. In the rare event that a clear process structure is needed - and sometimes it is - you'll hear that from me. 
-7. I believe strongly in work life balance and for my family work to practice it. If I am overloaded I tend to come in early to keep my commitment to my wife and kids to be with them in the evening.  As a leader, I also don't want to model staying late to our group.  
+7. I believe strongly in work life balance and I work to practice it.  If I am overloaded I tend to come in early to keep my commitment to my wife and kids to be with them in the evening.  As a leader, I also don't want to model staying late to our group.  
 8. If you see me on my phone during a meeting, please tell me to stop. So rude. 
-
-
-
