@@ -59,7 +59,7 @@ This is where a quick retro can become really powerful, because hearing from dev
 
 An important thing here is to do it in a group setting.  There is value in hearing every team members's opinions 1:1, but be aware they each have a unique view of what is working, may not invdividually have the same convlusions, and benefit from hearing from each other. 
 
-(Before I get to the last point of things to do, I'm going to touch on some things _not to do.) 
+(Before I get to the last point of things to do, I'm going to touch on some things _not to do_.) 
 
 **A.  No sweeping changes**
 Like software, team changes are best done in small incremental fashions.  There's no need to start over on anything, just make it better little by little. 
