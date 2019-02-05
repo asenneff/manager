@@ -1,4 +1,4 @@
-*When Things Are Going Bad*	
+****When Things Are Going Bad****
 	
 No matter how talented you are, no matter how good of a leader, no matter how experienced or equipped the team is, and no matter how important the project, it will happen to you: The Funk.
 	
@@ -71,7 +71,8 @@ Unless the project retro or specifics loudly calls for it, don't swap out people
 ANd sometimes, when everything else above seems in order, the very best thing to do is: 
 
 **7. Nothing**
-Trust your devs, they know what they are doing and let them do their job.  Software is uncertain, and this might be one of the times where you just need to embrace the uncertainty. 
+
+This is the hardest one to do, but many times it's the right one.   Trust your devs, they know what they are doing and let them do their job.  Software is uncertain, and this might be one of the times where you just need to embrace the uncertainty. 
 
 
 
