@@ -1,4 +1,4 @@
-****When Things Are Going Bad****
+# What to do When Things Are Going Bad
 	
 No matter how talented you are, no matter how good of a leader, no matter how experienced or equipped the team is, and no matter how important the project, it will happen to you: The Funk.
 	
