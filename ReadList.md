@@ -1,7 +1,7 @@
 # Aaron's Reading List For Leaders
 ---
 
-## For new managers, or Managers new to development
+## For new managers, or managers new to development
 *These recommendations are for individuals new to people leadership, new to software development, or both.* 
 
 ### [Resilient Management, Lara Hogan](https://resilient-management.com/)
