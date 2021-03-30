@@ -73,6 +73,6 @@ provide after the meeting. It’s just something I prefer to handle one on one.
 want you to figure out the processes that work best for you and your areas of responsibility, and you have the freedom to experiment. In the rare event that a clear process structure is needed - and sometimes it is - you'll hear that from me.
 7. I believe strongly in work life balance and I work to practice it.  If I am overloaded I tend to come in early to keep my commitment to my wife and kids to be with them in the evening.  As a leader, I also don't want to model staying late to our group.
 8. I will let you work and figure it out until you come to me. I know you're an
-   adult and i trust you to make the decisions you think need to happen. When it
-   feels like im not caring about you that means im trusting you.
+   adult and I trust you to make the decisions you think need to happen. When it
+   feels like I'm not caring about you that means I'm trusting you.
 9. If you see me on my phone during a meeting, please tell me to stop. So rude.
