@@ -23,7 +23,7 @@ I should warn you that for me email is the worst possible way to communicate wit
 ### People Come First.
 Some technology leaders like to focus on the technology. Some care less about the technology but bring a lot of passion about the product itself.  Some are very operational and focus on efficiency or metrics.  It might be helpful to know that I am not any of those.
 
-In my view, *my primary responsibility at Church Community Builder is to build and maintain an environment where great people want to be*.  That's where my heart is at, it is what our organization needs, and it is what drives me.
+In my view, *my primary responsibility at Pushpayis to build and maintain an environment where great people want to be*.  That's where my heart is at, it is what our organization needs, and it is what drives me.
 
 You do not have to have the same bent to be successful working with me. In fact, I need people who love the technology, who care about the product, and who look for inefficiency.   However, in your leadership role (we are all leaders) you also contribute singificantly to the culture.  If you do everything I ask you to do well and more but aren’t contributing positively to the environment, we have a huge problem.
 
